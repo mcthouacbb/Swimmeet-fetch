@@ -1,0 +1,4 @@
+https://www.swimmeet.com/swdistrict24/cincinnati/psych-sheets/girls-d1-50-freestyle.html
+https://www.swimmeet.com/swdistrict24/cincinnati/psych-sheets/boys-d1-100-backstroke.html
+// this comment will be ignored
+school, time, timeStr, place
